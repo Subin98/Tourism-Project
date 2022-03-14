@@ -124,7 +124,7 @@ background: linear-gradient(90deg, #111211f7 0%, #41b443f2 100%);
      max-height: 300px;
  }
  .login-bg{
-     background-image: url("/images/login.jpg")!important;
+     background-image: url("images/login.jpg")!important;
      background:fixed ;
      min-height:500px;
      object-fit: cover;
@@ -135,7 +135,7 @@ background: linear-gradient(90deg, #111211f7 0%, #41b443f2 100%);
      object-fit: cover;
  }
  .district-bg{
-     background-image: url("/images/kerala.jpg")!important;
+     background-image: url("images/kerala.jpg")!important;
      min-height:800px;
      background: fixed;
      background-size: cover!important;
