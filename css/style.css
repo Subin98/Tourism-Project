@@ -143,7 +143,7 @@ background: linear-gradient(90deg, #111211f7 0%, #41b443f2 100%);
      opacity: 0.9;
  }
  .custom-body {
-    background-image: linear-gradient(40deg, rgb(0 0 0 / 72%),rgb(178 255 0 / 31%)),url(images/login-bg.jpg)!important;
+    background-image: linear-gradient(40deg, rgb(0 0 0 / 72%),rgb(178 255 0 / 31%)),url(../images/login-bg.jpg)!important;
 }
 
 .custom-image-bg{
